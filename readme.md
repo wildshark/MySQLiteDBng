@@ -1,4 +1,3 @@
-```markdown
 # SQLiteDB Engine (SQLiteDBng)
 
 **Developed by: iQuipe Digital Enterprise**
